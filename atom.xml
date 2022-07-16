@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aoonthetop.github.io/Oz.github.io/</id>
+    <title>奥齐的停车库</title>
+    <updated>2022-07-16T17:22:24.451Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aoonthetop.github.io/Oz.github.io/"/>
+    <link rel="self" href="https://aoonthetop.github.io/Oz.github.io/atom.xml"/>
+    <subtitle>独立开发工作者，一个充满欲望和野心但是被楼下的酸菜蛋炒饭所耽误的男人。</subtitle>
+    <logo>https://aoonthetop.github.io/Oz.github.io/images/avatar.png</logo>
+    <icon>https://aoonthetop.github.io/Oz.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 奥齐的停车库</rights>
+    <entry>
+        <title type="html"><![CDATA[一个有趣的插件]]></title>
+        <id>https://aoonthetop.github.io/Oz.github.io/post/yi-ge-you-qu-de-cha-jian/</id>
+        <link href="https://aoonthetop.github.io/Oz.github.io/post/yi-ge-you-qu-de-cha-jian/">
+        </link>
+        <updated>2022-07-16T17:12:01.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://aoonthetop.github.io/Oz.github.io//post-images/1657991639763.png" alt="" loading="lazy"><br>
+VScode有个叫Rianbow Fart的插件<br>
+里面内置了一个小姐姐在你写代码的时候一直在旁边放彩虹屁。我现在快笑死了<br>
+Github地址：https://github.com/SaekiRaku/vscode-rainbow-fart</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于最近学习Android的一个坑]]></title>
+        <id>https://aoonthetop.github.io/Oz.github.io/post/guan-yu-zui-jin-xue-xi-android-de-yi-ge-keng/</id>
+        <link href="https://aoonthetop.github.io/Oz.github.io/post/guan-yu-zui-jin-xue-xi-android-de-yi-ge-keng/">
+        </link>
+        <updated>2022-07-14T09:16:36.000Z</updated>
+        <content type="html"><![CDATA[<p>在你不懂得<br>
+1.ANDROID_HOME<br>
+2.ANDROID_SDK_HOME<br>
+3.ANDROID_SDK<br>
+4.ANDROID_SDK_ROOT<br>
+5.ANDROID_USER_HOME<br>
+的各项环境变量指向文件时千万不要修改由Android Studio自行生成的环境变量！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Begin again]]></title>
+        <id>https://aoonthetop.github.io/Oz.github.io/post/zai-ci-qi-cheng/</id>
+        <link href="https://aoonthetop.github.io/Oz.github.io/post/zai-ci-qi-cheng/">
+        </link>
+        <updated>2022-06-30T04:32:30.000Z</updated>
+        <content type="html"><![CDATA[<p>临江仙·夜归临皋</p>
+<p>夜饮东坡醒复醉，归来仿佛三更。<br>
+家童鼻息已雷鸣。敲门都不应，倚杖听江声。<br>
+长恨此身非我有，何时忘却营营？<br>
+夜阑风静縠纹平。<br>
+小舟从此逝，江海寄余生。</p>
+<p>我的身份有很多，自嘲的说只是在这个时代下单枪匹马的莽夫罢了。</p>
+<p>其实在这一切的计划开始时我便已经做好了没有退路的打算，这算是一种不太好的执念。因为搞创业的朋友们都知道，在面临一些重大的抉择时首先要评估好自己的抗风险能力。但是在这件事情上我没有。我认为人生总要由自身赋予一些“伟大”的意义并为之努力，而这也是我坚持至今的原因。这是一种信念，也是我对抗虚无主义的一种方式；因为我仍想在那片虚无中找到一片璀璨的星云，而不至于摸黑渡过一生。</p>
+<p>我曾陷入社会达尔文主义的思想中难以抽身，也在虚无主义的黑洞中挣扎，我曾在各种压力之下摇摆不定，也在欢欣之余犯下不可弥补的过错。但这些行为在得到反馈和更正后便显得无关紧要。世间种种在轮回，而历史的车轮正在碾过每一个人的脸庞。我希望以后有人问我是做什么的我可以甩一个知名的产品或公司在他脸上，而不是我的Github或Twitter。</p>
+<p>总之这个世界充满着机遇和挑战，而幸运的是，这恰巧便是我所追求的精彩！</p>
+]]></content>
+    </entry>
+</feed>
